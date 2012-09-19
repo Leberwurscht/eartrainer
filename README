@@ -1,0 +1,6 @@
+Simple ear trainer for guitarists.
+
+Runs under Ubuntu if you install gstreamer0.10-plugins-bad, python-gst0.10, python-gtk2.
+
+Invocation:
+$ python guitar.py
