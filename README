@@ -4,3 +4,5 @@ Runs under Ubuntu if you install gstreamer0.10-plugins-bad, python-gst0.10, pyth
 
 Invocation:
 $ python guitar.py
+
+License: WTFPL
